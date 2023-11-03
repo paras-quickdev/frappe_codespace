@@ -1,0 +1,6 @@
+2023-11-03 12:53:55,320 Worker rq:worker:2055776f25d841d387a3c51160c22130 started with PID 7858, version 1.15.1
+2023-11-03 12:53:55,320 Subscribing to channel rq:pubsub:2055776f25d841d387a3c51160c22130
+2023-11-03 12:53:55,321 *** Listening on workspace-frappe-bench:short, workspace-frappe-bench:default, workspace-frappe-bench:long...
+2023-11-03 12:53:55,322 Cleaning registries for queue: workspace-frappe-bench:short
+2023-11-03 12:53:55,323 Cleaning registries for queue: workspace-frappe-bench:default
+2023-11-03 12:53:55,325 Cleaning registries for queue: workspace-frappe-bench:long
